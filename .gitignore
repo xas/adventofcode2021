@@ -1,3 +1,13 @@
 ﻿.vs/
 bin/
 obj/
+node_modules/
+.vscode/
+rust/target
+solidity/typechain-types
+solidity/coverage
+solidity/artifacts
+solidity/cache
+*-lock.*
+*.lock
+.*
